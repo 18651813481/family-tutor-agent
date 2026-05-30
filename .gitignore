@@ -23,6 +23,8 @@ private/
 *.heic
 *.mp3
 *.wav
+!assets/
+!assets/*.png
 
 # Local agent state
 .env

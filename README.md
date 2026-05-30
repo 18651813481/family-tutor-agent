@@ -1,5 +1,7 @@
 # 家庭辅导老师
 
+![家庭辅导老师：可语音 AI 家教 Agent 知识库与协作模板](assets/family-tutor-agent-hero.png)
+
 面向中文家庭的可语音 AI 家教 Agent 知识库与协作模板。
 
 这个项目适合已经会使用 Codex、Claude、ChatGPT 项目线程或类似 Agent 工具的用户。它帮助你搭建一套“学生辅导线程 + 家长管理线程 + 本地知识库 + TTS 语音朗读”的家庭学习协作系统。
