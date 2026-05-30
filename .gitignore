@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+
+# Logs and caches
+*.log
+*.pid
+.cache/
+__pycache__/
+
+# Private learning materials
+materials/
+raw/
+private/
+*.sqlite
+*.db
+*.pdf
+*.rtf
+*.docx
+*.xlsx
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.mp3
+*.wav
+
+# Local agent state
+.env
+.env.*
+*.token
+*.key
+local-config.*
